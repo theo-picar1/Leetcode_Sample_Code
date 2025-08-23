@@ -16,7 +16,7 @@ public class Q3 {
         // Test case 3. Expected: [0, 0, 0] ✅
         int[] nums3 = new int[]{0, 0, 0};
 
-        // Test case 4. Expected: [-1, -3, -6, -10]
+        // Test case 4. Expected: [-1, -3, -6, -10] ✅
         int[] nums4 = new int[]{-1, -2, -3, -4};
 
         // Test case 5. Expected: [] ✅
